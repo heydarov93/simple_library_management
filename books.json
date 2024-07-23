@@ -1,0 +1,33 @@
+{
+    "books": [
+        {
+            "id": 7,
+            "title": "The Prophet",
+            "author": "Muhammad ibn AbdulVahhab",
+            "year": 1950,
+            "status": "в наличии"
+        },
+        {
+            "id": 8,
+            "title": "Kitabu-t-Tawheed",
+            "author": "Muhammad ibn AbdulVahhab",
+            "year": 1000,
+            "status": "в наличии"
+        },
+        {
+            "id": 9,
+            "title": "Saheeh Bukhari",
+            "author": "Imam Bukhari",
+            "year": 500,
+            "status": "в наличии"
+        },
+        {
+            "id": 10,
+            "title": "Sharhu-s-Sunnah",
+            "author": "Imam Muzani",
+            "year": 1000,
+            "status": "в наличии"
+        }
+    ],
+    "lastId": 10
+}
